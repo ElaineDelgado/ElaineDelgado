@@ -1,8 +1,8 @@
 ### Olá, obrigada pela visita!!! 👋
 
 
- ✨ Meu nome é Elaine e atualmente trabalho como desenvolvedora front end. No meu trabalho utilizo as linguagens HTML, CSS e Javascript, e para versionamento Git e Github/Gitlab.  
- ✨ Nas minhas horas vagas estudo React, Next, Typescript e um pouco de UX/UI Design.
+ ✨ Meu nome é Elaine e atualmente trabalho como desenvolvedora front end. No meu trabalho utilizo HTML, CSS e Javascript, e para versionamento Git e Github/Gitlab.  
+ ✨ Ultimamente tenho criado alguns projetos com React, Next, Typescript e um pouco de UX/UI Design para expandir meus conhecimentos.
 
 
 - 📫 Contate-me: 
