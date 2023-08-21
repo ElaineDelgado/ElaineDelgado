@@ -12,5 +12,3 @@ https://skyline.github.com/ElaineDelgado/2022
 - (21)988667684 
 - https://www.linkedin.com/in/elaine-delgado-alves
 
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineDelgado&hide=html&layout=compact&theme=radical)](https://github.com/ElaineDelgado/)
